@@ -1,2 +1,2 @@
 # jaka-blog
-This is my blog.
+Jaya Kambhampaty's blog, using Jekyll.
